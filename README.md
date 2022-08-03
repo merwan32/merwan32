@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://ibb.co/HPTSYQN" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/ykF95Jh/pngwing-com-1.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Merwan Bekkar</h1>
 <h3 align="center">I'm a Full Stack Developer.</h3>
@@ -21,12 +21,12 @@
     <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/php.png"/> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://www.php.net/favicon-196x196.png?v=2" width="48px"/> </a> 
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/laravel.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>    
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" width="48px"/> </a>
 </p>
 <br/>
 
@@ -55,7 +55,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/bekkar-merwan-9b6559247/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://web.facebook.com/mer.wan.37625"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.instagram.com/"><img src="https://img.icons8.com/color/48/000000/instagram.png"/></a>
 </p>
 
 ## ❤ Views and Followers
