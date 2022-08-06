@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **m.bekkar@esi-sba.dz**
 
--👨‍💻 All of my projects are available at <a href="https://bekkar-merwan-portfolio.netlify.app/">**My portfolio**</a>
+- 👨‍💻 All of my projects are available at <a href="https://bekkar-merwan-portfolio.netlify.app/">**My portfolio**</a>
 
 ## 🚀 Languages and Tools:
 
