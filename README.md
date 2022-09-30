@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
-- 📫 How to reach me **m.bekkar@esi-sba.dz**
+- 📫 How to reach me **km_bekkar@esi.dz**
 
-- 👨‍💻 All of my projects are available at <a href="https://bekkar-merwan-portfolio.netlify.app/">**My portfolio**</a>
+- 👨‍💻 All of my projects are available at <a href="https://merwan.netlify.app/">**My portfolio**</a>
 
 ## 🚀 Languages and Tools:
 
@@ -23,6 +23,7 @@
     <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
+    <a href="https://fr.reactjs.org/"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"/></a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://www.php.net/favicon-196x196.png?v=2" width="48px"/> </a> 
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/laravel.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>    
@@ -33,21 +34,21 @@
 <br/>
 
 <p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=merwan32&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img  src="https://github-readme-streak-stats.herokuapp.com?user=merwan32&theme=prussian&hide_border=true&border_radius=8"/>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <img alt="Merwan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=merwan32&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="Abdessamed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merwan32&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=merwan32&theme=prussian&hide_border=true&border_radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merwan32&langs_count=8&count_private=true&theme=prussian&hide_border=true&border_radius=8" />
   <br/>
 
 
 <br/>
 <br/>
 
-<img alt="Merwan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=merwan32&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img  src="https://activity-graph.herokuapp.com/graph?username=merwan32&theme=tokyo-night&hide_border=true&border_radius=8" />
 
 <br/>
 <br/>
@@ -57,11 +58,11 @@
 
 <a href = "https://www.linkedin.com/in/bekkar-merwan-9b6559247/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://web.facebook.com/mer.wan.37625"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/"><img src="https://img.icons8.com/color/48/000000/instagram.png"/></a>
+<a href = "https://www.instagram.com/bk__mrwan/"><img src="https://img.icons8.com/fluency/2x/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/merwan32/github-profile-views-counter">
+<a href="https://komarev.com/ghpvc/?username=merwan32">
     <img src="https://komarev.com/ghpvc/?username=merwan32">
 </a>
-<a href="https://github.com/merwan32?tab=followers"><img src="https://img.shields.io/github/followers/merwan32?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://img.shields.io/github/followers/merwan32?label=Followers&style=social"><img src="https://img.shields.io/github/followers/merwan32?label=Followers&style=social" ></a>
