@@ -38,12 +38,12 @@
 </p>
 
 ## 📊 My Github Stats
-
+<p align="center">
   <br/>
     <img  src="https://github-readme-stats.vercel.app/api?username=merwan32&theme=prussian&hide_border=true&border_radius=8" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merwan32&langs_count=8&count_private=true&theme=prussian&hide_border=true&border_radius=8" />
   <br/>
-
+</p>
 
 <br/>
 <br/>
@@ -58,7 +58,7 @@
 
 <a href = "https://www.linkedin.com/in/bekkar-merwan-9b6559247/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://web.facebook.com/mer.wan.37625"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/bk__mrwan/"><img src="https://img.icons8.com/fluency/2x/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/bk__mrwan/"><img width="48px" src="https://img.icons8.com/fluency/2x/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
